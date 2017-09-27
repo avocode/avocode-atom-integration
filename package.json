@@ -1,9 +1,19 @@
 {
   "name": "avocode",
-  "main": ".\/lib\/avocode",
-  "version": "0.0.1",
+  "main": "./lib/avocode",
+  "version": "0.0.2",
   "description": "Integrate Avocode web app with Atom to inspect Photoshop & Sketch designs inside your text editor and to get code suggestions from layer styles.",
-  "keywords": ["design", "inspect", "preview", "export", "psd", "sketch", "adobe", "xd", "comment"],
+  "keywords": [
+    "design",
+    "inspect",
+    "preview",
+    "export",
+    "psd",
+    "sketch",
+    "adobe",
+    "xd",
+    "comment"
+  ],
   "activationCommands": {
     "atom-workspace": [
       "avocode:split-up",
@@ -13,7 +23,7 @@
       "avocode:new-tab"
     ]
   },
-  "repository": "https:\/\/github.com\/avocode\/avocode-atom-integration",
+  "repository": "https://github.com/avocode/avocode-atom-integration",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
