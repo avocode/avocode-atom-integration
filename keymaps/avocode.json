@@ -1,0 +1,37 @@
+{
+  "atom-workspace": {
+    "cmd-shift-v": "avocode:paste-style"
+  },
+  ".avocode": {
+    "tab": "native!",
+    "backspace": "native!",
+    "escape": "native!",
+    "enter": "native!",
+    "shift-up": "native!",
+    "shift-left": "native!",
+    "shift-down": "native!",
+    "shift-right": "native!",
+    "up": "native!",
+    "left": "native!",
+    "down": "native!",
+    "right": "native!",
+    "cmd-s": "native!",
+    "cmd-c": "native!",
+    "cmd-a": "native!",
+    "cmd-up": "native!",
+    "cmd-down": "native!",
+    "cmd-f": "native!",
+    "cmd-+": "native!",
+    "cmd--": "native!",
+
+
+    "ctrl-s": "native!",
+    "ctrl-c": "native!",
+    "ctrl-a": "native!",
+    "ctrl-up": "native!",
+    "ctrl-down": "native!",
+    "ctrl-f": "native!",
+    "ctrl-+": "native!",
+    "ctrl--": "native!"
+  }
+}
