@@ -4,6 +4,10 @@
 
 ![Avocode](http://telegra.ph/file/fb4e202daa84ad383a8e1.gif)
 
+## What is Avocode?
+
+Avocode is a tool for designers and developers to share, open and inspect Photoshop & Sketch designs. It works on the web and has also an offline desktop app for macOS, Windows, & Linux. It comes with a 14 day free trial, no credit card required. To try it out, please start your trial here: https://avocode.com/signup
+
 ### Features:
 
 - View design inside your text editor
