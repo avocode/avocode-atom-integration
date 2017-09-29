@@ -2,7 +2,7 @@
   "atom-workspace": {
     "cmd-shift-v": "avocode:paste-style"
   },
-  ".avocode": {
+  "html body .avocode": {
     "tab": "native!",
     "backspace": "native!",
     "escape": "native!",
