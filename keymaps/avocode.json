@@ -16,6 +16,7 @@
     "down": "native!",
     "right": "native!",
     "cmd-s": "native!",
+    "cmd-v": "native!",
     "cmd-c": "native!",
     "cmd-a": "native!",
     "cmd-up": "native!",
@@ -26,6 +27,7 @@
 
 
     "ctrl-s": "native!",
+    "ctrl-v": "native!",
     "ctrl-c": "native!",
     "ctrl-a": "native!",
     "ctrl-up": "native!",
