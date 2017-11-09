@@ -1,7 +1,7 @@
 {
   "name": "avocode",
   "main": "./lib/avocode",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Integrate Avocode web app with Atom to inspect Photoshop & Sketch designs inside your text editor and to get code suggestions from layer styles.",
   "keywords": [
     "design",
